@@ -1,0 +1,25 @@
+.default-img{
+    height: 300px;
+    width: 300px;
+}
+.center{
+    margin-left:10%;
+    
+
+}
+.details{
+    font-size: 40px;
+}
+.heading{
+    margin-top: 10%;
+    margin-bottom: 10%;   
+    margin-left:10%;
+    font-size: 40px;
+}
+.btn{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color: green;
+    color: wheat;
+    font-size: 40px;
+}
