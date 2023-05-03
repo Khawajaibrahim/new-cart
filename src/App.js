@@ -98,6 +98,7 @@ setlist(list.filter((cartItem) => cartItem.id !== item.id))
       
     }
     <span>Total bill :: {total_bill.current}</span>
+    <h1>hello</h1>
     </div>
     
     </>
