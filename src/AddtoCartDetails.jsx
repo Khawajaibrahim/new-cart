@@ -12,7 +12,7 @@ function AddtoCartDetails({item}) {
           </div>
           <div className='add_cart'>
               <Addcart />
-          </div>
+          </div>fdggfgd
           <div className='categories'>
               <h6>{value.cat}</h6>
               <h6>{value.tag}</h6>
